@@ -14,3 +14,8 @@ dist/
 build/
 *.egg-info/
 pyvenv.cfg
+
+include/*
+etc/*
+share/*
+pip-selfcheck.json
