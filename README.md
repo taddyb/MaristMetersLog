@@ -12,3 +12,4 @@ The site which helps people log their meters and such
 4. run `python -m venv .`
 5. run `source bin/activate`
 6. run `pip install -r requirements.txt`
+7. run `jupyter notebook` to open the jupitr coding environment
