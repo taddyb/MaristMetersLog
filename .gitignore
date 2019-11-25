@@ -19,3 +19,6 @@ include/*
 etc/*
 share/*
 pip-selfcheck.json
+
+tcl/*
+Scripts/*
